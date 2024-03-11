@@ -1,1 +1,3 @@
-commit 1
+commit 1 done
+commit 2 done
+commit 3 ongoing
